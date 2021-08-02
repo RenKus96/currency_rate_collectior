@@ -1,3 +1,6 @@
+.vscode/
+activate_venv.cmd
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
